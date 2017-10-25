@@ -1,1 +1,1 @@
-# course_material
+# CMPE 548: Course Material
